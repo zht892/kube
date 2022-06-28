@@ -1,1 +1,1 @@
-FROM gcr.io/kfserving/kfserving-controller:v0.4.1
+FROM quay.io/jetstack/cert-manager-controller:v0.11.0
