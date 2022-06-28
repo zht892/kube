@@ -1,1 +1,1 @@
-FROM quay.io/jetstack/cert-manager-controller:v0.11.0
+FROM gcr.io/kubebuilder/kube-rbac-proxy:v0.4.0
