@@ -1,1 +1,1 @@
-FROM registry.aliyuncs.com/google_containers/kube-apiserver
+FROM registry.aliyuncs.com/google_containers/kube-apiserverv1.15.0
