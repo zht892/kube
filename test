@@ -1,1 +1,1 @@
-FROM mirrors.aliyun.com/repo/Centos-6.repo
+FROM mirrors.aliyun.com/repo/epel.repo
