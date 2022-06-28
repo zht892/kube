@@ -1,1 +1,1 @@
-FROM http://mirrors.aliyun.com/repo/Centos-6.repo
+FROM http://mirrors.aliyun.com/repo/centos-6.repo
