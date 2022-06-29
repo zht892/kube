@@ -1,1 +1,1 @@
-FROM mpioperator/mpi-operator:v0.2.3
+FROM kubeflow/mxnet-operator:v1.0.0-20200625
