@@ -1,1 +1,1 @@
-FROM docker.io/seldonio/seldon-core-operator:1.4.0
+FROM quay.io/jetstack/cert-manager-cainjector:v0.11.0
