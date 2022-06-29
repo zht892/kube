@@ -1,1 +1,1 @@
-FROM metacontroller/metacontroller:v0.3.0
+FROM mpioperator/mpi-operator:v0.2.3
