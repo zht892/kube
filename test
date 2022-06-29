@@ -1,1 +1,1 @@
-FROM kubeflow/mxnet-operator:v1.0.0-20200625
+FROM argoproj/workflow-controller:v2.3.0
